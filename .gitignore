@@ -1,0 +1,12 @@
+# Latex default files
+
+*.log
+*.synctex*
+*.out
+*.toc
+*.aux
+*.bbl
+*.blg
+*.listing
+*.lof
+*.lot
